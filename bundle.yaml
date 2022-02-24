@@ -4,7 +4,7 @@ id: "pnavas-casc-12-ops-controller"
 description: "CloudBees CI configuration bundle for the pnavas-casc-12 ops-controller Controller"
 availabilityPattern: "cloudbees-ci-casc-workshop/pnavas-casc-12/ops-controller"
 jcasc:
-  - "jenkins.yaml"
+  - "jcasc/"
 plugins:
   - "plugins.yaml"
 items:
